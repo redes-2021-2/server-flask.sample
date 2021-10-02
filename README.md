@@ -1,9 +1,9 @@
 # server-flask.sample
 
-RUN COMMAND 
+# RUN COMMAND 
 `poetry install`  
-FOR RUN PROYECT FIRST  
+## FOR RUN PROYECT FIRST  
 `poetry shell`  
-AND  
+### AND  
 `flask run`
 
