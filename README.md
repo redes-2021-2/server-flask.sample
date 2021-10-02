@@ -2,8 +2,8 @@
 
 # RUN COMMAND 
 `poetry install`  
-## FOR RUN PROYECT FIRST  
+# FOR INIT ENV FIRST  
 `poetry shell`  
-### AND  
+# RUN SERVER
 `flask run`
 
